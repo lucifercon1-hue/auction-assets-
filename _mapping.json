@@ -1,175 +1,175 @@
 {
-  "cdn_base": "https://cdn.jsdelivr.net/gh/USER/REPO@v1/",
+  "cdn_base": "https://cdn.jsdelivr.net/gh/lucifercon1-hue/auction-assets-@v1/",
   "items": [
     {
       "local": "Linoelle.png",
       "catbox": "https://files.catbox.moe/c6jeql.png",
-      "rel": "lots/linoelle-p1.webp"
+      "rel": "lots/linoelle-p1.png"
     },
     {
       "local": "Linoelle_p2.png",
       "catbox": "https://files.catbox.moe/y6qvh2.png",
-      "rel": "lots/linoelle-p2.webp"
+      "rel": "lots/linoelle-p2.png"
     },
     {
       "local": "Silvana.png",
       "catbox": "https://files.catbox.moe/s3u9q3.png",
-      "rel": "lots/silvana-p1.webp"
+      "rel": "lots/silvana-p1.png"
     },
     {
       "local": "Silvana_p2.png",
       "catbox": "https://files.catbox.moe/1uipv2.png",
-      "rel": "lots/silvana-p2.webp"
+      "rel": "lots/silvana-p2.png"
     },
     {
       "local": "Azari.png",
       "catbox": "https://files.catbox.moe/tf4354.png",
-      "rel": "lots/azari-p1.webp"
+      "rel": "lots/azari-p1.png"
     },
     {
       "local": "Azari_p2.png",
       "catbox": "https://files.catbox.moe/1bqw0y.png",
-      "rel": "lots/azari-p2.webp"
+      "rel": "lots/azari-p2.png"
     },
     {
       "local": "Mariana.png",
       "catbox": "https://files.catbox.moe/q9dy0l.png",
-      "rel": "lots/mariana-p1.webp"
+      "rel": "lots/mariana-p1.png"
     },
     {
       "local": "Mariana_p2.png",
       "catbox": "https://files.catbox.moe/z1h0i1.png",
-      "rel": "lots/mariana-p2.webp"
+      "rel": "lots/mariana-p2.png"
     },
     {
       "local": "Eluvia.png",
       "catbox": "https://files.catbox.moe/9aq4k2.png",
-      "rel": "lots/eluvia-p1.webp"
+      "rel": "lots/eluvia-p1.png"
     },
     {
       "local": "Eluvia_p2.png",
       "catbox": "https://files.catbox.moe/2szgxj.png",
-      "rel": "lots/eluvia-p2.webp"
+      "rel": "lots/eluvia-p2.png"
     },
     {
       "local": "Aurelia.png",
       "catbox": "https://files.catbox.moe/2hkbzc.png",
-      "rel": "lots/aurelia-p1.webp"
+      "rel": "lots/aurelia-p1.png"
     },
     {
       "local": "Aurelia_p2.png",
       "catbox": "https://files.catbox.moe/9iteyb.png",
-      "rel": "lots/aurelia-p2.webp"
+      "rel": "lots/aurelia-p2.png"
     },
     {
       "local": "Victoria.png",
       "catbox": "https://files.catbox.moe/v3bb5k.png",
-      "rel": "lots/victoria-p1.webp"
+      "rel": "lots/victoria-p1.png"
     },
     {
       "local": "Victoria_p2.png",
       "catbox": "https://files.catbox.moe/expwte.png",
-      "rel": "lots/victoria-p2.webp"
+      "rel": "lots/victoria-p2.png"
     },
     {
       "local": "Seraphina.png",
       "catbox": "https://files.catbox.moe/r8yi68.png",
-      "rel": "lots/seraphina-p1.webp"
+      "rel": "lots/seraphina-p1.png"
     },
     {
       "local": "Seraphina_p2.png",
       "catbox": "https://files.catbox.moe/98izrl.png",
-      "rel": "lots/seraphina-p2.webp"
+      "rel": "lots/seraphina-p2.png"
     },
     {
       "local": "Isadora.png",
       "catbox": "https://files.catbox.moe/ywcr9v.png",
-      "rel": "lots/isadora-p1.webp"
+      "rel": "lots/isadora-p1.png"
     },
     {
       "local": "Isadora_p2.png",
       "catbox": "https://files.catbox.moe/p9mbhp.png",
-      "rel": "lots/isadora-p2.webp"
+      "rel": "lots/isadora-p2.png"
     },
     {
       "local": "Celestine.png",
       "catbox": "https://files.catbox.moe/hr8h2j.png",
-      "rel": "lots/celestine-p1.webp"
+      "rel": "lots/celestine-p1.png"
     },
     {
       "local": "Celestine_p2.png",
       "catbox": "https://files.catbox.moe/qoz896.png",
-      "rel": "lots/celestine-p2.webp"
+      "rel": "lots/celestine-p2.png"
     },
     {
       "local": "Freyja.png",
       "catbox": "https://files.catbox.moe/a54p9e.png",
-      "rel": "host/freyja-p1.webp"
+      "rel": "host/freyja-p1.png"
     },
     {
       "local": "Freyja_p2.png",
       "catbox": "https://files.catbox.moe/cxdcl1.png",
-      "rel": "host/freyja-p2.webp"
+      "rel": "host/freyja-p2.png"
     },
     {
       "local": "舞台.png",
       "catbox": "https://files.catbox.moe/ymzu9v.png",
-      "rel": "scenes/stage.webp"
+      "rel": "scenes/stage.png"
     },
     {
       "local": "贵宾室.png",
       "catbox": "https://files.catbox.moe/o9n43m.png",
-      "rel": "scenes/vip.webp"
+      "rel": "scenes/vip.png"
     },
     {
       "local": "晨曦圣堂.png",
       "catbox": "https://files.catbox.moe/agrasn.png",
-      "rel": "rooms/chenxi-shengtang.webp"
+      "rel": "rooms/chenxi-shengtang.png"
     },
     {
       "local": "幽影档案室.png",
       "catbox": "https://files.catbox.moe/mi7y4h.png",
-      "rel": "rooms/youying-danganshi.webp"
+      "rel": "rooms/youying-danganshi.png"
     },
     {
       "local": "沙蝎舞殿.png",
       "catbox": "https://files.catbox.moe/1k4rg7.png",
-      "rel": "rooms/shaxie-wudian.webp"
+      "rel": "rooms/shaxie-wudian.png"
     },
     {
       "local": "钢铁指挥所.png",
       "catbox": "https://files.catbox.moe/ch9o8u.png",
-      "rel": "rooms/gangtie-zhihuisuo.webp"
+      "rel": "rooms/gangtie-zhihuisuo.png"
     },
     {
       "local": "万木圣婚庭.png",
       "catbox": "https://files.catbox.moe/ohvkbo.png",
-      "rel": "rooms/wanmu-shenghunting.webp"
+      "rel": "rooms/wanmu-shenghunting.png"
     },
     {
       "local": "太阳王座厅.png",
       "catbox": "https://files.catbox.moe/44lkr6.png",
-      "rel": "rooms/taiyang-wangzuoting.webp"
+      "rel": "rooms/taiyang-wangzuoting.png"
     },
     {
       "local": "铁算金库.png",
       "catbox": "https://files.catbox.moe/72q06a.png",
-      "rel": "rooms/tiesuan-jinku.webp"
+      "rel": "rooms/tiesuan-jinku.png"
     },
     {
       "local": "黄金千金闺房.png",
       "catbox": "https://files.catbox.moe/em2kfl.png",
-      "rel": "rooms/huangjin-qianjin-guifang.webp"
+      "rel": "rooms/huangjin-qianjin-guifang.png"
     },
     {
       "local": "符文塔顶.png",
       "catbox": "https://files.catbox.moe/0lqevj.png",
-      "rel": "rooms/fuwen-tading.webp"
+      "rel": "rooms/fuwen-tading.png"
     },
     {
       "local": "圣光神殿.png",
       "catbox": "https://files.catbox.moe/u5dtmu.png",
-      "rel": "rooms/shengguang-shendian.webp"
+      "rel": "rooms/shengguang-shendian.png"
     }
   ]
 }

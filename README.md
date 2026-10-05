@@ -15,11 +15,11 @@
 https://cdn.jsdelivr.net/gh/lucifercon1-hue/auction-assets-@v1/<路径>
 ```
 
-例：`.../auction-assets-@v1/lots/linoelle-p1.webp`
+例：`.../auction-assets-@v1/lots/linoelle-p1.png`
 
 `@v1` 为固定标签，缓存一年；更新图片需发新标签（v2、v3…）。
 
 ## 规格
 
-源图为 5–10MB PNG，此处统一压至宽 1200px 的 WebP（约 90–410KB/张）。
+源图为 5–10MB PNG，此处统一压至宽 1200px 的 PNG（约 1.8–2.1MB/张）。
 文件名映射见 `_mapping.json`（本地文件名 ↔ catbox 旧址 ↔ 新路径）。
