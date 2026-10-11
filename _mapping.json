@@ -170,6 +170,54 @@
       "local": "圣光神殿.png",
       "catbox": "https://files.catbox.moe/u5dtmu.png",
       "rel": "rooms/shengguang-shendian.png"
+    },
+    {
+      "local": "XieWujiu.png",
+      "rel": "lots/xiewujiu-p1.png"
+    },
+    {
+      "local": "XieWujiu_p2.png",
+      "rel": "lots/xiewujiu-p2.png"
+    },
+    {
+      "local": "Carmilla.png",
+      "rel": "lots/carmilla-p1.png"
+    },
+    {
+      "local": "Carmilla_p2.png",
+      "rel": "lots/carmilla-p2.png"
+    },
+    {
+      "local": "TachibanaChizuru.png",
+      "rel": "lots/tachibana-p1.png"
+    },
+    {
+      "local": "TachibanaChizuru_p2.png",
+      "rel": "lots/tachibana-p2.png"
+    },
+    {
+      "local": "Velka.png",
+      "rel": "lots/velka-p1.png"
+    },
+    {
+      "local": "Velka_p2.png",
+      "rel": "lots/velka-p2.png"
+    },
+    {
+      "local": "寒渊剑冢.png",
+      "rel": "rooms/hanyuan-jianzhong.png"
+    },
+    {
+      "local": "夜宴魔宫.png",
+      "rel": "rooms/yeyan-mogong.png"
+    },
+    {
+      "local": "东国神祠.png",
+      "rel": "rooms/dongguo-shenci.png"
+    },
+    {
+      "local": "狼牙王庭.png",
+      "rel": "rooms/langya-wangting.png"
     }
   ]
 }
